@@ -10,6 +10,12 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Многократное шифрование никак не улучшает стойкость, так как применение
+    шифров со сдвигом n и k эквивалентно применению шифра со сдвигом n + k.</html>
+  time: Thu, 20 Jun 2024 00:59:11 UTC
 record: -1
+selected_options:
+- 1
 local_check: false

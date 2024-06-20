@@ -17,6 +17,15 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 20 Jun 2024 00:58:25 UTC
 record: -1
+selected_options:
+- 1
+- 2
+- 4
+- 5
+- 8
 local_check: false

@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: <code>ROT 25</code>
-- text: <code>ROT 1</code>
+- text: <code>ROT 26</code>
 - text: <code>ROT 12</code>
 - text: <code>ROT 13</code>
-- text: <code>ROT 26</code>
+- text: <code>ROT 25</code>
+- text: <code>ROT 1</code>
 files:
 - name: task.py
   visible: true
@@ -13,7 +13,15 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>ROT 13 является обратимым алгоритмом, то есть отменить ROT 13 можно,
+    применив тот же алгоритм; одни и те же действия могут быть использованы для кодирования
+    и декодирования. Другими словами, применив алгоритм ROT 13 к уже ROT 13 зашифрованному
+    тексту, получим первоначальный текст.</html>
+  time: Thu, 20 Jun 2024 01:00:10 UTC
 record: -1
+selected_options:
+- 2
 custom_name: Quiz
 local_check: false

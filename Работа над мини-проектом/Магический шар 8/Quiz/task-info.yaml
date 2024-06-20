@@ -1,11 +1,11 @@
 type: choice
 is_multiple_choice: false
 options:
-- text: Гексаэдр
 - text: Додекаэдр
+- text: Икосаэдр
+- text: Гексаэдр
 - text: Октаэдр
 - text: Тетраэдр
-- text: Икосаэдр
 files:
 - name: task.py
   visible: true
@@ -13,6 +13,11 @@ files:
     #  You can experiment here, it won’t be checked
 
   learner_created: false
-status: Unchecked
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: Thu, 20 Jun 2024 01:01:08 UTC
 record: -1
+selected_options:
+- 1
 local_check: false
