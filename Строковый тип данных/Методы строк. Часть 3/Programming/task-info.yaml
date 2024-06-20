@@ -8,4 +8,7 @@ files:
     print()
   learner_created: false
 status: Unchecked
+feedback:
+  message: Failed to submit "code" task to Stepik
+  time: Thu, 20 Jun 2024 01:23:20 UTC
 record: -1

@@ -1,5 +1,5 @@
-year = 2010
+year = '2010'
 amount = '10K'
 currency = 'Bitcoin'
 
-print('In {}, someone paid {} {} for two pizzas.')
+print(f'In {year}, someone paid {amount} {currency} for two pizzas.')
