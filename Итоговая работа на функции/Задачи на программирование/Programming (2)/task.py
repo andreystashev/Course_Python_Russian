@@ -1,6 +1,7 @@
 # объявление функции
+import math
 def compute_binom(n, k):
-    pass
+    return int(math.factorial(n)/(  math.factorial(k)* math.factorial(n-k)))
 
 # считываем данные
 n = int(input())

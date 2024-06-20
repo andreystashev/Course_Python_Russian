@@ -10,5 +10,5 @@ files:
     # основная программа
     draw_triangle()  # вызов функции
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

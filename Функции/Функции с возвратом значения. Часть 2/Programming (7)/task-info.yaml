@@ -14,5 +14,5 @@ files:
     # вызываем функцию
     print(is_correct_bracket(txt))
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

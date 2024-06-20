@@ -8,5 +8,5 @@ files:
     \ 'for', 'from', 'global', 'if', 'import', 'in', 'is', 'lambda', 'nonlocal', 'not',\
     \ 'or', 'pass', 'raise', 'return', 'while', 'yield']\n\nlengths = \n\nprint(lengths)"
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

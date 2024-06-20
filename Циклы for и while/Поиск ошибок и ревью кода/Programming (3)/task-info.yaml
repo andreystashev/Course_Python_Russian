@@ -17,5 +17,5 @@ files:
     else:
         print(max_digit)
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

@@ -15,5 +15,5 @@ files:
     # вызываем функцию
     print(compute_binom(n, k))
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

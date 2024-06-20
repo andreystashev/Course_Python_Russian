@@ -1,2 +1,6 @@
 s = 'Python rocks!'
-print()
+print(len(s))
+
+
+
+

@@ -15,5 +15,5 @@ files:
     # вызываем функцию
     print(get_month(lan, num))
   learner_created: false
-status: Unchecked
+status: Solved
 record: -1

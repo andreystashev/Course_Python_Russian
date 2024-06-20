@@ -3,10 +3,14 @@ a = int(input())
 l=[]
 for i in range(a):
     l.append(int(input()))
-print(max(l))
-del l[l.find(max(l))]
-#del l[l.min()]
-#print(*l,sep='\n')
+    
+#print(max(l),min(l),"fff")
+for i in l:
+    
+    if not(i==max(l) or i==min(l)):
+        print(i)
+
+
 
 
 

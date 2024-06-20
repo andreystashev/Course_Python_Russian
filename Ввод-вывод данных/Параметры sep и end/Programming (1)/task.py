@@ -1,8 +1,12 @@
 # put your python code here
-
-a = input()
-b = input()
-c = input()
-d = input()
-print(b,c,d,sep=a)
-
+a=1000
+b=0
+c=0
+while(True):
+    b=a/100*8
+    a+=b
+    c+=1
+    print(c)
+    if a>=3000:
+        break
+print(c)

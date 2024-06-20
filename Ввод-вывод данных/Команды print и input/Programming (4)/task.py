@@ -1,1 +1,2 @@
-# put your python code here
+zzz = input()
+print("Привет,", zzz)
